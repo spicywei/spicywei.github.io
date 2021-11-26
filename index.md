@@ -2,6 +2,18 @@
 
 # C++开发
 
+
+## 联系我
+
+许伟
+
+- email: weixu_math@163.com
+- Github: [@spicywei](https://github.com/SpicyWei)
+- Linkedin: [@spicywei](https://www.linkedin.com/in/spicywei/)
+- LeetCode: [@spicywei](https://leetcode-cn.com/u/spicywei/)
+- WeChat: Spicy_Wei
+
+
 ## 教育背景
 
 - **上海大学 计算机工程与科学学院 计算机科学与技术（高性能计算方向）**
@@ -68,17 +80,6 @@ GPA：4.0/5.0；CET4：467；获取推免生名额（4/130）；学位论文：�
 1. 加密算法及相关产品的 Java 原型实现：[一些位运算 tricks](https://blog.csdn.net/weixin_40411846/article/details/79580431)
 
 
-
-
-## 联系我
-
-许伟
-
-- email: weixu_math@163.com
-- Github: [@spicywei](https://github.com/SpicyWei)
-- Linkedin: [@spicywei](https://www.linkedin.com/in/spicywei/)
-- LeetCode: [@spicywei](https://leetcode-cn.com/u/spicywei/)
-- WeChat: Spicy_Wei
 
 
 _获取 A4 版本请至公开的 [Google Docs](https://docs.google.com/document/d/1o7iQKDF-_HZUHg6cGiCSl6txrcuQ2tbQttHFFAUeRhc)版本_
