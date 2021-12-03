@@ -1,17 +1,11 @@
-# SpicyWei.github.io
+# Wei Xu    许伟
 
-# C++开发
+**Address**: Shanghai University, 99 Shangda Road, Baoshan District, Shanghai, 200444, P.R. China.
 
+**Email**: weixu_math@163.com
 
-## 联系我
+**WeChat**: Spicy_Wei
 
-许伟
-
-- email: weixu_math@163.com
-- Github: [@spicywei](https://github.com/SpicyWei)
-- Linkedin: [@spicywei](https://www.linkedin.com/in/spicywei/)
-- LeetCode: [@spicywei](https://leetcode-cn.com/u/spicywei/)
-- WeChat: Spicy_Wei
 
 
 ## 教育背景
@@ -40,4 +34,4 @@ GPA：4.0/5.0；CET4：467；获取推免生名额（4/130）；学位论文：�
 
 
 
-_获取 A4 版本请至公开的 [Google Docs](https://docs.google.com/document/d/1o7iQKDF-_HZUHg6cGiCSl6txrcuQ2tbQttHFFAUeRhc)版本_
+
